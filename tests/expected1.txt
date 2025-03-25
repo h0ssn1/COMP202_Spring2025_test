@@ -1,1 +1,44 @@
+Student Records System Menu:
+1. Insert a new student record
+2. Search for a student record
+3. Delete a student record
+4. Update a student record
+5. Display all student records
+6. Exit the application
+> Enter student name: 
+Enter student ID: 
+Enter email address: 
+Record inserted successfully.
+Student Records System Menu:
+1. Insert a new student record
+2. Search for a student record
+3. Delete a student record
+4. Update a student record
+5. Display all student records
+6. Exit the application
+> Search by:
+a. Name
+b. Student ID
+c. Email
+> Enter student name to search:
+Record found: Alice Johnson, 123456, alice.johnson@example.com
+Student Records System Menu:
+1. Insert a new student record
+2. Search for a student record
+3. Delete a student record
+4. Update a student record
+5. Display all student records
+6. Exit the application
+> Displaying all records:
+Name            | Student ID | Email
+--------------------------------------------
+Alice Johnson   | 123456     | alice.johnson@example.com
+Student Records System Menu:
+1. Insert a new student record
+2. Search for a student record
+3. Delete a student record
+4. Update a student record
+5. Display all student records
+6. Exit the application
+> Exiting the application.
 
